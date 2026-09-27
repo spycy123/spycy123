@@ -35,11 +35,11 @@ I'm currently exploring web development, programming, databases, and Geographic 
 
 ## 📚 Currently Learning
 
- React JS
- Web Development
- Database Management
- Java Programming
- Geographic Information Systems
+ *React JS
+ *Web Development
+ *Database Management
+ *Java Programming
+ *Geographic Information Systems
 
 ---
 
