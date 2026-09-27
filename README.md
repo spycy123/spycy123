@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Spycy
 
-🎓 Informatics Engineering Student
-💻 Web Developer in Progress
-🚀 Exploring Web Development, Programming, Database & GIS
+*🎓 Informatics Engineering Student
+*💻 Web Developer in Progress
+*🚀 Exploring Web Development, Programming, Database & GIS
 
 ---
 
@@ -35,11 +35,11 @@ I'm currently exploring web development, programming, databases, and Geographic 
 
 ## 📚 Currently Learning
 
- *React JS
- *Web Development
- *Database Management
- *Java Programming
- *Geographic Information Systems
+* React JS
+* Web Development
+* Database Management
+* Java Programming
+* Geographic Information Systems
 
 ---
 
