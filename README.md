@@ -36,11 +36,4 @@ I'm currently exploring web development, programming, databases, and Geographic 
 
 ---
 
-##  Connect With Me
-
-* Instagram: https://www.instagram.com/syafii_nadh/
-* Email: syafiinurradha@gmail.com
-
----
-
 Thanks for visiting my profile!
