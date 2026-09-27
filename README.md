@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Spycy
+# Hi, I'm Spycy
 
 🎓 Informatics Engineering Student
 💻 Web Developer in Progress
@@ -6,7 +6,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 I'm an Informatics Engineering student who enjoys building projects while learning new technologies.
 
@@ -14,7 +14,7 @@ I'm currently exploring web development, programming, databases, and Geographic 
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages & Frameworks
 
@@ -33,7 +33,7 @@ I'm currently exploring web development, programming, databases, and Geographic 
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 
 * React JS
 * Web Development
@@ -43,23 +43,23 @@ I'm currently exploring web development, programming, databases, and Geographic 
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🎬 Anime Website
+### Anime Website
 
 A web project for displaying anime information using an API.
 
-### 🎓 Academic Information System
+### Academic Information System
 
 A database-based academic project for managing student information.
 
-### 🗺️ GIS / RTH Analysis
+### GIS / RTH Analysis
 
 A GIS project for analyzing the distribution and coverage of green open spaces.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=spycy123\&show_icons=true\&theme=radical)
 
@@ -67,11 +67,9 @@ A GIS project for analyzing the distribution and coverage of green open spaces.
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
-* Instagram: `[Tambahkan Instagram]`
-* LinkedIn: `[Tambahkan LinkedIn]`
-* Email: `[Tambahkan Email]`
+* Instagram: https://www.instagram.com/syafii_nadh/
 
 ---
 
