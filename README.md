@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Spycy
 
-*🎓 Informatics Engineering Student
-*💻 Web Developer in Progress
-*🚀 Exploring Web Development, Programming, Database & GIS
+🎓 Informatics Engineering Student
+💻 Web Developer in Progress
+🚀 Exploring Web Development, Programming, Database & GIS
 
 ---
 
